@@ -1,0 +1,3 @@
+{
+    "PORTAL_LANGUAGE":"ru-RU"
+}

@@ -1,0 +1,9 @@
+{
+    "accept": "application/json",
+    "accept-language": "ru-RU,ru;q=0.9",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "sec-gpc": "1"
+}
