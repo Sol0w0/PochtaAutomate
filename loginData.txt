@@ -1,0 +1,4 @@
+{
+    "username" : "example@gmail.com",
+    "userpassword" : "228$rEaLpAsSwOrD1337"
+}
